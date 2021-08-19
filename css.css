@@ -1,0 +1,11 @@
+.circleImg {
+    width: 80px;
+    height:150px;
+    border-radius:50px;
+    border-radius:100px;
+    border:5px solid #666;
+}
+body{
+    font-family: 'Indie Flower', cursive;
+    background-color: rgb(184, 246, 225);
+}
