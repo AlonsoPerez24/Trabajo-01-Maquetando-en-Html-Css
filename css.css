@@ -6,6 +6,14 @@
     border:5px solid #666;
 }
 body{
-    font-family: 'Indie Flower', cursive;
-    background-color: rgb(184, 246, 225);
+    font-family: 'Righteous', cursive;
+    background-color: #B8F6E1;
+}
+h2{
+    color: #3A3B48
+}
+div{
+    font-size: 110%;
+    width: 20%;
+    background-color: #D6CBC1;
 }
